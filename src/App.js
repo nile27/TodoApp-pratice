@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  //Bare minimum
   return (
     <div className="App">
       <header className="App-header">
